@@ -1,0 +1,29 @@
+h1 {
+	color: blueviolet;
+	background-color: yellow;
+	text-align: center;
+	font-family: 'Inter', sans-serif;;
+}
+
+img {
+	width: 400px;
+	height: 500px;
+	border-radius: 50%;
+}
+a{
+	margin:0 auto;
+	width:30%;
+	padding: 5px 10px;
+	text-decoration: none;
+	background-color: darkgrey;
+	color：rgb(230,230,230)
+	border-radius: 8px;
+	box-shadow: 4px 4px 2px 0px rgba(0, 0, 0, 0.75);
+}
+div{
+	display:flex;
+	flex-direction: column;
+	margin:0 auto;
+	width:600px;
+	border:2px solid red;
+}
